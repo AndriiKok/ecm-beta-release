@@ -22,7 +22,7 @@ maybe you'd like to open a pull request to address one of them:
 
 ### Contributing documentation
 
-You can help by improving the project's usage and developer instructions.
+You can help by improving project's usage and developer instructions.
 
 Tutorials are in [/doc](https://github.com/badges/shields/tree/master/doc):
 
