@@ -1,4 +1,4 @@
 module.exports = (config, outputOptions, omt) => {
-  outputOptions.format = "esm";
+  outputOptions.format = "ecm";
   config.plugins = [omt()];
 };
