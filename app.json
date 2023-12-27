@@ -1,7 +1,7 @@
 {
   "name": "Shields",
   "description": "Concise, consistent, and legible badges in SVG and raster format.",
-  "keywords": ["badge", "github", "svg", "status"],
+  "keywords": ["badge", "github", "status"],
   "website": "https://shields.io/",
   "repository": "https://github.com/badges/shields",
   "logo": "http://shields.io/favicon.png",
